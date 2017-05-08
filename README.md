@@ -1,5 +1,6 @@
 # classWeights
 calculate class weights for SegNet algorithm
 
-# testing
-have a commit testing
+# python function
+classWeightCal.py (for two classes)
+
